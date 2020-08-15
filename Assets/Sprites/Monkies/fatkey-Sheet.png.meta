@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 64fd9dc46ee3c2747b410bce179103af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6599476282891801694
+    second: fatkey-Sheet_0
+  - first:
+      213: -6666319780472474924
+    second: fatkey-Sheet_1
+  - first:
+      213: -2822929431235924032
+    second: fatkey-Sheet_2
+  - first:
+      213: -8114071097805177103
+    second: fatkey-Sheet_3
+  - first:
+      213: -6629395160568559588
+    second: fatkey-Sheet_4
+  - first:
+      213: -1287460751872828985
+    second: fatkey-Sheet_5
+  - first:
+      213: -4049247732899153636
+    second: fatkey-Sheet_6
+  - first:
+      213: 8211058842546522621
+    second: fatkey-Sheet_7
+  - first:
+      213: 9219188254244625135
+    second: fatkey-Sheet_8
+  - first:
+      213: -9142511398256115621
+    second: fatkey-Sheet_9
+  - first:
+      213: -8675799585573510062
+    second: fatkey-Sheet_10
+  - first:
+      213: -2717412104656113315
+    second: fatkey-Sheet_11
+  - first:
+      213: -6579838937508342313
+    second: fatkey-Sheet_12
+  - first:
+      213: 1159460943493615613
+    second: fatkey-Sheet_13
+  - first:
+      213: -2458581849874400551
+    second: fatkey-Sheet_14
+  - first:
+      213: -2576791170754249796
+    second: fatkey-Sheet_15
+  - first:
+      213: -5349671913301526401
+    second: fatkey-Sheet_16
+  - first:
+      213: 3874999581867864108
+    second: fatkey-Sheet_17
+  - first:
+      213: 3049470451917184426
+    second: fatkey-Sheet_18
+  - first:
+      213: 1693985632421646729
+    second: fatkey-Sheet_19
+  - first:
+      213: 5042274746813139572
+    second: fatkey-Sheet_20
+  - first:
+      213: 5289035469010324175
+    second: fatkey-Sheet_21
+  - first:
+      213: -4679869659864699731
+    second: fatkey-Sheet_22
+  - first:
+      213: 7317616769552154680
+    second: fatkey-Sheet_23
+  - first:
+      213: -2284301745657053982
+    second: fatkey-Sheet_24
+  - first:
+      213: -7376059286336482700
+    second: fatkey-Sheet_25
+  - first:
+      213: 4325505094368973246
+    second: fatkey-Sheet_26
+  - first:
+      213: -1427213526512515474
+    second: fatkey-Sheet_27
+  - first:
+      213: 802693825460667745
+    second: fatkey-Sheet_28
+  - first:
+      213: 5849122442581360333
+    second: fatkey-Sheet_29
+  - first:
+      213: 7393302359503648526
+    second: fatkey-Sheet_30
+  - first:
+      213: -6390211956119955698
+    second: fatkey-Sheet_31
+  - first:
+      213: -1863856560080128465
+    second: fatkey-Sheet_0
+  - first:
+      213: 8036215334436345767
+    second: fatkey-Sheet_1
+  - first:
+      213: -7407258038891736151
+    second: fatkey-Sheet_2
+  - first:
+      213: 3304816069601003264
+    second: fatkey-Sheet_3
+  - first:
+      213: -7183344015504098354
+    second: fatkey-Sheet_4
+  - first:
+      213: 7494472810837803876
+    second: fatkey-Sheet_5
+  - first:
+      213: -9003497210944045456
+    second: fatkey-Sheet_6
+  - first:
+      213: -2128154871835752530
+    second: fatkey-Sheet_7
+  - first:
+      213: -8209065497377944790
+    second: fatkey-Sheet_8
+  - first:
+      213: 716829494700496403
+    second: fatkey-Sheet_9
+  - first:
+      213: 385056634880982022
+    second: fatkey-Sheet_10
+  - first:
+      213: 65078592535282524
+    second: fatkey-Sheet_11
+  - first:
+      213: 315318579251064922
+    second: fatkey-Sheet_12
+  - first:
+      213: 7455994832184335850
+    second: fatkey-Sheet_13
+  - first:
+      213: 6821070359685425509
+    second: fatkey-Sheet_14
+  - first:
+      213: -3469923766848082808
+    second: fatkey-Sheet_15
+  - first:
+      213: 6528868486746553167
+    second: fatkey-Sheet_16
+  - first:
+      213: -325941366165471363
+    second: fatkey-Sheet_17
+  - first:
+      213: 2913689856118509870
+    second: fatkey-Sheet_18
+  - first:
+      213: -6902040643627781678
+    second: fatkey-Sheet_19
+  - first:
+      213: -7144016347360404929
+    second: fatkey-Sheet_20
+  - first:
+      213: 4661074847956103897
+    second: fatkey-Sheet_21
+  - first:
+      213: -7172833779168471714
+    second: fatkey-Sheet_22
+  - first:
+      213: -3398536111160661457
+    second: fatkey-Sheet_23
+  - first:
+      213: 327261493345403383
+    second: fatkey-Sheet_24
+  - first:
+      213: -1399958767778861352
+    second: fatkey-Sheet_25
+  - first:
+      213: -2228342435784526974
+    second: fatkey-Sheet_26
+  - first:
+      213: 777210106487685774
+    second: fatkey-Sheet_27
+  - first:
+      213: 8547111824650186823
+    second: fatkey-Sheet_28
+  - first:
+      213: 8914180587750338092
+    second: fatkey-Sheet_29
+  - first:
+      213: 526867227834278071
+    second: fatkey-Sheet_30
+  - first:
+      213: 8011068595531570743
+    second: fatkey-Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fatkey-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26742075504226e0800000000000000
+      internalID: -1863856560080128465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a710abd44f568f60800000000000000
+      internalID: 8036215334436345767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a393381f02243990800000000000000
+      internalID: -7407258038891736151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0070294a4b01ddd20800000000000000
+      internalID: 3304816069601003264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb33784da2af4c90800000000000000
+      internalID: -7183344015504098354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638fc46057b10860800000000000000
+      internalID: 7494472810837803876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eb57d3df62d0380800000000000000
+      internalID: -9003497210944045456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea786356b664772e0800000000000000
+      internalID: -2128154871835752530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b4fd27c6a831e80800000000000000
+      internalID: -8209065497377944790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3165524a0a0b2f900800000000000000
+      internalID: 716829494700496403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 54
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cfc7428fef75500800000000000000
+      internalID: 385056634880982022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c534c8692a437e000800000000000000
+      internalID: 65078592535282524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503753c39c306400800000000000000
+      internalID: 315318579251064922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedde7bdbc3097760800000000000000
+      internalID: 7455994832184335850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569eef04a5f49ae50800000000000000
+      internalID: 6821070359685425509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ca55fe7ba58dfc0800000000000000
+      internalID: -3469923766848082808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b35c91c433b9a50800000000000000
+      internalID: 6528868486746553167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ff91ced060a7bf0800000000000000
+      internalID: -325941366165471363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e215a9b9c718f6820800000000000000
+      internalID: 2913689856118509870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f14b6a960730a0800000000000000
+      internalID: -6902040643627781678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3adff19bfa5bdc90800000000000000
+      internalID: -7144016347360404929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 27
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d27ee7f0e67fa040800000000000000
+      internalID: 4661074847956103897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e559dbf5ea9f47c90800000000000000
+      internalID: -7172833779168471714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a6ee1c969f5d0d0800000000000000
+      internalID: -3398536111160661457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f14483289aaa8400800000000000000
+      internalID: 327261493345403383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dee8520be8529ce0800000000000000
+      internalID: -1399958767778861352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28372256c565311e0800000000000000
+      internalID: -2228342435784526974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82ca09597439ca00800000000000000
+      internalID: 777210106487685774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740b0d38be07d9670800000000000000
+      internalID: 8547111824650186823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eaa84e30885bb70800000000000000
+      internalID: 8914180587750338092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b06bd6c3fecf4700800000000000000
+      internalID: 526867227834278071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatkey-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e52f371780d2f60800000000000000
+      internalID: 8011068595531570743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

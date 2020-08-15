@@ -1,0 +1,896 @@
+fileFormatVersion: 2
+guid: 832d4a1675c48f84e88758b29002750f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8277585683922156711
+    second: monki-Sheet_0
+  - first:
+      213: -4672067318353131159
+    second: monki-Sheet_1
+  - first:
+      213: -8426767164147935376
+    second: monki-Sheet_2
+  - first:
+      213: -4489380030513090871
+    second: monki-Sheet_3
+  - first:
+      213: 7689466870011626307
+    second: monki-Sheet_4
+  - first:
+      213: 8251628145875375526
+    second: monki-Sheet_5
+  - first:
+      213: -6059239366141371552
+    second: monki-Sheet_6
+  - first:
+      213: 8273318630655459709
+    second: monki-Sheet_7
+  - first:
+      213: 3803610416341386562
+    second: monki-Sheet_8
+  - first:
+      213: -7666890775862380599
+    second: monki-Sheet_9
+  - first:
+      213: -474953222753527213
+    second: monki-Sheet_10
+  - first:
+      213: -2713547769064856394
+    second: monki-Sheet_11
+  - first:
+      213: 2881622674449642715
+    second: monki-Sheet_12
+  - first:
+      213: 4680219898763579172
+    second: monki-Sheet_13
+  - first:
+      213: -2225869547959463562
+    second: monki-Sheet_14
+  - first:
+      213: -3111197699877239762
+    second: monki-Sheet_15
+  - first:
+      213: 1129239293469270653
+    second: monki-Sheet_16
+  - first:
+      213: -7176937685898899171
+    second: monki-Sheet_17
+  - first:
+      213: 105454513056389373
+    second: monki-Sheet_18
+  - first:
+      213: -6623379803371292882
+    second: monki-Sheet_19
+  - first:
+      213: 4360153258426625524
+    second: monki-Sheet_20
+  - first:
+      213: -7348522394567301447
+    second: monki-Sheet_21
+  - first:
+      213: -1770152183686549224
+    second: monki-Sheet_22
+  - first:
+      213: -5089154951924006889
+    second: monki-Sheet_23
+  - first:
+      213: 5402437011914845374
+    second: monki-Sheet_24
+  - first:
+      213: 2253681635642839856
+    second: monki-Sheet_25
+  - first:
+      213: -6691453542396974472
+    second: monki-Sheet_26
+  - first:
+      213: 3482424859191776449
+    second: monki-Sheet_27
+  - first:
+      213: -6517274925201102380
+    second: monki-Sheet_0
+  - first:
+      213: 6145344204640892077
+    second: monki-Sheet_1
+  - first:
+      213: 8004763470311993800
+    second: monki-Sheet_2
+  - first:
+      213: 4966178349973958180
+    second: monki-Sheet_3
+  - first:
+      213: 7615026464627244935
+    second: monki-Sheet_4
+  - first:
+      213: 8009428579679362743
+    second: monki-Sheet_5
+  - first:
+      213: 3228554521295987941
+    second: monki-Sheet_6
+  - first:
+      213: -4389644629941953677
+    second: monki-Sheet_7
+  - first:
+      213: -8425310166287606483
+    second: monki-Sheet_8
+  - first:
+      213: -548537250672755663
+    second: monki-Sheet_9
+  - first:
+      213: -6976732320870993114
+    second: monki-Sheet_10
+  - first:
+      213: -3559157078406743194
+    second: monki-Sheet_11
+  - first:
+      213: -671270935722892750
+    second: monki-Sheet_12
+  - first:
+      213: -8376823792552277414
+    second: monki-Sheet_13
+  - first:
+      213: -2231686475923091698
+    second: monki-Sheet_14
+  - first:
+      213: 8553406607834598467
+    second: monki-Sheet_15
+  - first:
+      213: -3477162123402095539
+    second: monki-Sheet_16
+  - first:
+      213: -8357090995412938868
+    second: monki-Sheet_17
+  - first:
+      213: 7993142475496284937
+    second: monki-Sheet_18
+  - first:
+      213: -4893975309716928203
+    second: monki-Sheet_19
+  - first:
+      213: -5553253792654552541
+    second: monki-Sheet_20
+  - first:
+      213: 2133421234325253836
+    second: monki-Sheet_21
+  - first:
+      213: -8347898701374502343
+    second: monki-Sheet_22
+  - first:
+      213: 8844951242435523710
+    second: monki-Sheet_23
+  - first:
+      213: 5437137299733120230
+    second: monki-Sheet_24
+  - first:
+      213: -4744764245903357599
+    second: monki-Sheet_25
+  - first:
+      213: 4757031160627430311
+    second: monki-Sheet_26
+  - first:
+      213: 5799145003878817787
+    second: monki-Sheet_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monki-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e3db4cfcfd85a0800000000000000
+      internalID: -6517274925201102380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 44
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da43024aef5a84550800000000000000
+      internalID: 6145344204640892077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c138f617f1a61f60800000000000000
+      internalID: 8004763470311993800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 44
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eee69b5e86be440800000000000000
+      internalID: 4966178349973958180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f3e4339320ea960800000000000000
+      internalID: 7615026464627244935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 44
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be56a18bd4372f60800000000000000
+      internalID: 8009428579679362743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 44
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e424d34b312ecc20800000000000000
+      internalID: 3228554521295987941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 44
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bdb166779d413c0800000000000000
+      internalID: -4389644629941953677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 44
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d90fffa09431b80800000000000000
+      internalID: -8425310166287606483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 44
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cb49bd6443368f0800000000000000
+      internalID: -548537250672755663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237f712beaad2f90800000000000000
+      internalID: -6976732320870993114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 22
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bbfb19e755b9ec0800000000000000
+      internalID: -3559157078406743194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 22
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2326138f3aa2fa6f0800000000000000
+      internalID: -671270935722892750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 22
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a81ea942b8fbb80800000000000000
+      internalID: -8376823792552277414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 22
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f8f8069f47701e0800000000000000
+      internalID: -2231686475923091698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 22
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cc57fedfdc3b670800000000000000
+      internalID: 8553406607834598467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 22
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44dc28b873aebfc0800000000000000
+      internalID: -3477162123402095539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 22
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fcbc67406a50c80800000000000000
+      internalID: -8357090995412938868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 22
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903ea036bb85dee60800000000000000
+      internalID: 7993142475496284937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 22
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5394acc926b151cb0800000000000000
+      internalID: -4893975309716928203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3221c351911eee2b0800000000000000
+      internalID: -5553253792654552541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce6b3c2f4f6b9d10800000000000000
+      internalID: 2133421234325253836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac0a33c5e462c80800000000000000
+      internalID: -8347898701374502343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74f40dda449fba70800000000000000
+      internalID: 8844951242435523710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e48e912197947b40800000000000000
+      internalID: 5437137299733120230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c4f3ae06372eb0800000000000000
+      internalID: -4744764245903357599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a389a203ae540240800000000000000
+      internalID: 4757031160627430311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monki-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff9d25e7a3ba7050800000000000000
+      internalID: 5799145003878817787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 44261746d5325ad4298ab8c73c867584
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5059062015000745479
+    second: sumdamn_0
+  - first:
+      213: -2699209812540617899
+    second: sumdamn_1
+  - first:
+      213: -6036657335175596242
+    second: sumdamn_2
+  - first:
+      213: 2593120317034777339
+    second: sumdamn_3
+  - first:
+      213: 31578144860113207
+    second: sumdamn_4
+  - first:
+      213: -2194058604249074360
+    second: sumdamn_5
+  - first:
+      213: 1530145802185878178
+    second: sumdamn_6
+  - first:
+      213: -2503918276138805232
+    second: sumdamn_7
+  - first:
+      213: -3722906717985527
+    second: sumdamn_8
+  - first:
+      213: 4975349309774823523
+    second: sumdamn_9
+  - first:
+      213: -6583870516649518951
+    second: sumdamn_10
+  - first:
+      213: 3913678787145106391
+    second: sumdamn_11
+  - first:
+      213: 4442338214532688360
+    second: sumdamn_12
+  - first:
+      213: -5030801001526028174
+    second: sumdamn_13
+  - first:
+      213: 3301199205115381773
+    second: sumdamn_14
+  - first:
+      213: -3590499489870533755
+    second: sumdamn_15
+  - first:
+      213: 8965930238144272529
+    second: sumdamn_16
+  - first:
+      213: -4433073065123181037
+    second: sumdamn_17
+  - first:
+      213: 5165177243181314291
+    second: sumdamn_18
+  - first:
+      213: -7836481998076619014
+    second: sumdamn_19
+  - first:
+      213: 6199043640772197066
+    second: sumdamn_20
+  - first:
+      213: 8435861289943814234
+    second: sumdamn_21
+  - first:
+      213: -6996213919973638232
+    second: sumdamn_22
+  - first:
+      213: -917762086807085162
+    second: sumdamn_23
+  - first:
+      213: -477868049405857256
+    second: sumdamn_24
+  - first:
+      213: 3429120925380557634
+    second: sumdamn_25
+  - first:
+      213: 1619478210137390058
+    second: sumdamn_26
+  - first:
+      213: 1896769681165707261
+    second: sumdamn_27
+  - first:
+      213: 8251608232017191731
+    second: sumdamn_28
+  - first:
+      213: -8356193203326953701
+    second: sumdamn_29
+  - first:
+      213: 6501212538675176677
+    second: sumdamn_30
+  - first:
+      213: 1516721276348991974
+    second: sumdamn_31
+  - first:
+      213: -2630004625763536896
+    second: sumdamn_0
+  - first:
+      213: 4923604848743748278
+    second: sumdamn_1
+  - first:
+      213: 3015707697045553588
+    second: sumdamn_2
+  - first:
+      213: 7599663545109658696
+    second: sumdamn_3
+  - first:
+      213: 4643415198238024485
+    second: sumdamn_4
+  - first:
+      213: 7079854097096533496
+    second: sumdamn_5
+  - first:
+      213: -2231063613738338624
+    second: sumdamn_6
+  - first:
+      213: 1376621785467310031
+    second: sumdamn_7
+  - first:
+      213: 89835027076068877
+    second: sumdamn_8
+  - first:
+      213: -8160012939528738194
+    second: sumdamn_9
+  - first:
+      213: -2815058715435365040
+    second: sumdamn_10
+  - first:
+      213: 5330799420982339912
+    second: sumdamn_11
+  - first:
+      213: 4629208442409938156
+    second: sumdamn_12
+  - first:
+      213: 4861404532489920591
+    second: sumdamn_13
+  - first:
+      213: -4155388716899438014
+    second: sumdamn_14
+  - first:
+      213: 6393536128593220830
+    second: sumdamn_15
+  - first:
+      213: 2037273435721736761
+    second: sumdamn_16
+  - first:
+      213: -5267431954152228674
+    second: sumdamn_17
+  - first:
+      213: 289696836601329633
+    second: sumdamn_18
+  - first:
+      213: -5390000158363284720
+    second: sumdamn_19
+  - first:
+      213: 8164143704714242483
+    second: sumdamn_20
+  - first:
+      213: -1092892479327524841
+    second: sumdamn_21
+  - first:
+      213: 6159223421099177998
+    second: sumdamn_22
+  - first:
+      213: 7128924427410918563
+    second: sumdamn_23
+  - first:
+      213: 4493129541282224427
+    second: sumdamn_24
+  - first:
+      213: 832637683665163412
+    second: sumdamn_25
+  - first:
+      213: -6634074854815404015
+    second: sumdamn_26
+  - first:
+      213: -5883858271749352262
+    second: sumdamn_27
+  - first:
+      213: -1095286186289481087
+    second: sumdamn_28
+  - first:
+      213: -3848178871946248697
+    second: sumdamn_29
+  - first:
+      213: 4572709472158938210
+    second: sumdamn_30
+  - first:
+      213: 2271632104024770790
+    second: sumdamn_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sumdamn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000fabb2ab8508bd0800000000000000
+      internalID: -2630004625763536896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 222
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b213c70688245440800000000000000
+      internalID: 4923604848743748278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1cfcc2c22f9d920800000000000000
+      internalID: 3015707697045553588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 222
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c3fb2cabd677960800000000000000
+      internalID: 7599663545109658696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 222
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523a0ab5589b07040800000000000000
+      internalID: 4643415198238024485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f568076ac1b04260800000000000000
+      internalID: 7079854097096533496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 185
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6b3d7c67ba901e0800000000000000
+      internalID: -2231063613738338624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 185
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfc7d0683eba1310800000000000000
+      internalID: 1376621785467310031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 185
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06b14d2b782f3100800000000000000
+      internalID: 89835027076068877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 185
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6cc0177fc1ce80800000000000000
+      internalID: -8160012939528738194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d8b9c5307eee8d0800000000000000
+      internalID: -2815058715435365040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 148
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849a28064ddcaf940800000000000000
+      internalID: 5330799420982339912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 148
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec65114d804e3040800000000000000
+      internalID: 4629208442409938156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 148
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40298c5aad277340800000000000000
+      internalID: 4861404532489920591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 148
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242fa896af71556c0800000000000000
+      internalID: -4155388716899438014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4dc6b0c376ab850800000000000000
+      internalID: 6393536128593220830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 111
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932a8865569d54c10800000000000000
+      internalID: 2037273435721736761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 111
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8f636bb8256e6b0800000000000000
+      internalID: -5267431954152228674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 111
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e73d2eecb5350400800000000000000
+      internalID: 289696836601329633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 111
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b0575d96fd235b0800000000000000
+      internalID: -5390000158363284720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9ebb6a17ddc4170800000000000000
+      internalID: 8164143704714242483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 74
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718acf7941445d0f0800000000000000
+      internalID: -1092892479327524841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 74
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08f1ea8115f97550800000000000000
+      internalID: 6159223421099177998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 74
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acce6efef60fe260800000000000000
+      internalID: 7128924427410918563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 74
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29d0fd138dca5e30800000000000000
+      internalID: 4493129541282224427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4945771df8f1e8b00800000000000000
+      internalID: 832637683665163412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 37
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110706181180fe3a0800000000000000
+      internalID: -6634074854815404015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 37
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4d2ab6316585ea0800000000000000
+      internalID: -5883858271749352262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ab2d24403ccc0f0800000000000000
+      internalID: -1095286186289481087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 37
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70efa7954b5889ac0800000000000000
+      internalID: -3848178871946248697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f815a907857f30800000000000000
+      internalID: 4572709472158938210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumdamn_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e805ccec55768f10800000000000000
+      internalID: 2271632104024770790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

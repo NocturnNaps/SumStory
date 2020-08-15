@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2782f7808e44db54e9ac67aeb6389518, type: 3}
+  m_Name: Sumdood
+  m_EditorClassIdentifier: 
+  speakerName: Sum
+  speakerSprite: {fileID: -491678623520309652, guid: 38b9e98bc885214408365952a994bfba,
+    type: 3}
+  confusedSprite: {fileID: 408150941168560767, guid: 38b9e98bc885214408365952a994bfba,
+    type: 3}
+  angrySprite: {fileID: -8595261553463901526, guid: 38b9e98bc885214408365952a994bfba,
+    type: 3}
+  shockedSprite: {fileID: 593841510200326535, guid: 38b9e98bc885214408365952a994bfba,
+    type: 3}
+  happySprite: {fileID: -5740784438794991247, guid: 38b9e98bc885214408365952a994bfba,
+    type: 3}

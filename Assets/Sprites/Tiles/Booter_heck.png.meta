@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: edc7da56e5eceb1489a357336598b46f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8076759361639374548
+    second: Booter_heck_0
+  - first:
+      213: 683348724528138722
+    second: Booter_heck_1
+  - first:
+      213: 8357755219981932238
+    second: Booter_heck_2
+  - first:
+      213: 3381767911843219924
+    second: Booter_heck_3
+  - first:
+      213: 6694105114411933149
+    second: Booter_heck_4
+  - first:
+      213: -5606434495485774625
+    second: Booter_heck_5
+  - first:
+      213: -3670099781906822809
+    second: Booter_heck_6
+  - first:
+      213: -8894050849830822283
+    second: Booter_heck_7
+  - first:
+      213: -5516619774358900806
+    second: Booter_heck_8
+  - first:
+      213: -8457271435358823488
+    second: Booter_heck_9
+  - first:
+      213: -7459007431101310582
+    second: Booter_heck_10
+  - first:
+      213: -8086667960573752803
+    second: Booter_heck_11
+  - first:
+      213: -2854841900129731832
+    second: Booter_heck_12
+  - first:
+      213: -8257466129874813148
+    second: Booter_heck_13
+  - first:
+      213: -5525933344100524479
+    second: Booter_heck_14
+  - first:
+      213: 2522568184074316222
+    second: Booter_heck_15
+  - first:
+      213: 4873513740502686744
+    second: Booter_heck_16
+  - first:
+      213: -579738551025296222
+    second: Booter_heck_17
+  - first:
+      213: 8487516902691268004
+    second: Booter_heck_18
+  - first:
+      213: 7863742241650987058
+    second: Booter_heck_19
+  - first:
+      213: 6560867198020443086
+    second: Booter_heck_20
+  - first:
+      213: 4647784871516904766
+    second: Booter_heck_21
+  - first:
+      213: 1821284494998979881
+    second: Booter_heck_22
+  - first:
+      213: -7243329425591888964
+    second: Booter_heck_23
+  - first:
+      213: 8785917388639060882
+    second: Booter_heck_24
+  - first:
+      213: -8763477486859891607
+    second: Booter_heck_25
+  - first:
+      213: -8555670242441499061
+    second: Booter_heck_26
+  - first:
+      213: -7445242691689319779
+    second: Booter_heck_27
+  - first:
+      213: 8678236199792866898
+    second: Booter_heck_28
+  - first:
+      213: 1688843117657477296
+    second: Booter_heck_29
+  - first:
+      213: -2663976100027383479
+    second: Booter_heck_30
+  - first:
+      213: -7080435251873064978
+    second: Booter_heck_31
+  - first:
+      213: -4434329872944586322
+    second: Booter_heck_32
+  - first:
+      213: 7431637026265122611
+    second: Booter_heck_33
+  - first:
+      213: -5743964801517098318
+    second: Booter_heck_34
+  - first:
+      213: 825402792144979968
+    second: Booter_heck_35
+  - first:
+      213: -8313300136443562248
+    second: Booter_heck_36
+  - first:
+      213: 7004215869197867321
+    second: Booter_heck_37
+  - first:
+      213: -1605737986286068986
+    second: Booter_heck_38
+  - first:
+      213: 8976502161103430481
+    second: Booter_heck_39
+  - first:
+      213: -7761495034284448016
+    second: Booter_heck_40
+  - first:
+      213: 5659203323533788417
+    second: Booter_heck_41
+  - first:
+      213: -24488284141456689
+    second: Booter_heck_42
+  - first:
+      213: 9168140753588632843
+    second: Booter_heck_43
+  - first:
+      213: 2774336860356356845
+    second: Booter_heck_44
+  - first:
+      213: -2274170710506728859
+    second: Booter_heck_45
+  - first:
+      213: -2491556651427924475
+    second: Booter_heck_46
+  - first:
+      213: 6829141340279844074
+    second: Booter_heck_0
+  - first:
+      213: 5172747818861701947
+    second: Booter_heck_1
+  - first:
+      213: -6654053952842455587
+    second: Booter_heck_2
+  - first:
+      213: -8561037502304603328
+    second: Booter_heck_3
+  - first:
+      213: 8683916303030560741
+    second: Booter_heck_4
+  - first:
+      213: -4803256314442322010
+    second: Booter_heck_5
+  - first:
+      213: -4413150593943195358
+    second: Booter_heck_6
+  - first:
+      213: -1574524891707524875
+    second: Booter_heck_7
+  - first:
+      213: 809986286675124829
+    second: Booter_heck_8
+  - first:
+      213: -1628814407429860142
+    second: Booter_heck_9
+  - first:
+      213: 8241923873107149058
+    second: Booter_heck_10
+  - first:
+      213: 1152700631217158148
+    second: Booter_heck_11
+  - first:
+      213: 5674108147680056951
+    second: Booter_heck_12
+  - first:
+      213: 6782936800291303778
+    second: Booter_heck_13
+  - first:
+      213: -5011918320461352292
+    second: Booter_heck_14
+  - first:
+      213: -7725418791230123169
+    second: Booter_heck_15
+  - first:
+      213: -991450274223594331
+    second: Booter_heck_16
+  - first:
+      213: 6941608877357480213
+    second: Booter_heck_17
+  - first:
+      213: 2786536237167319324
+    second: Booter_heck_18
+  - first:
+      213: -8414202892822804448
+    second: Booter_heck_19
+  - first:
+      213: -7558456065929696074
+    second: Booter_heck_20
+  - first:
+      213: 5232893999577837367
+    second: Booter_heck_21
+  - first:
+      213: -2524081126024308246
+    second: Booter_heck_22
+  - first:
+      213: 2319835481009867840
+    second: Booter_heck_23
+  - first:
+      213: -958767693962720520
+    second: Booter_heck_24
+  - first:
+      213: -1921995291166446809
+    second: Booter_heck_25
+  - first:
+      213: 4888482657992242575
+    second: Booter_heck_26
+  - first:
+      213: -4019368868130848007
+    second: Booter_heck_27
+  - first:
+      213: 5180741265686774406
+    second: Booter_heck_28
+  - first:
+      213: 6856332423934063268
+    second: Booter_heck_29
+  - first:
+      213: 780591670805743487
+    second: Booter_heck_30
+  - first:
+      213: -6935114750234625110
+    second: Booter_heck_31
+  - first:
+      213: -4447265046582237422
+    second: Booter_heck_32
+  - first:
+      213: 5019747236857605932
+    second: Booter_heck_33
+  - first:
+      213: 4633875081280854459
+    second: Booter_heck_34
+  - first:
+      213: -444461759474953292
+    second: Booter_heck_35
+  - first:
+      213: 2884455764378989125
+    second: Booter_heck_36
+  - first:
+      213: 2309380498310229512
+    second: Booter_heck_37
+  - first:
+      213: -1452821703778056870
+    second: Booter_heck_38
+  - first:
+      213: 1373607246451304042
+    second: Booter_heck_39
+  - first:
+      213: 6203877724865166275
+    second: Booter_heck_40
+  - first:
+      213: 6600471800719872190
+    second: Booter_heck_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Booter_heck_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeca05cdddbf5ce50800000000000000
+      internalID: 6829141340279844074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3badef1cba49c740800000000000000
+      internalID: 5172747818861701947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5aa804f2d08a3a0800000000000000
+      internalID: -6654053952842455587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043365effb5113980800000000000000
+      internalID: -8561037502304603328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72c554ed7738870800000000000000
+      internalID: 8683916303030560741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af638ca4d7675db0800000000000000
+      internalID: -4803256314442322010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22136bbaae651c2c0800000000000000
+      internalID: -4413150593943195358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: -5, y: 12}
+        - {x: -5, y: -12}
+      - - {x: -6, y: 3}
+        - {x: -6, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f833c304f9262ae0800000000000000
+      internalID: -1574524891707524875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 3}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52653a7c36ad3b00800000000000000
+      internalID: 809986286675124829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 3}
+        - {x: -12, y: 12}
+        - {x: 6, y: 12}
+        - {x: 6, y: 3}
+      - - {x: 5, y: -12}
+        - {x: 5, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4da102de94569e0800000000000000
+      internalID: -1628814407429860142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2010d525812316270800000000000000
+      internalID: 8241923873107149058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: -5, y: 12}
+        - {x: -5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4083118ed173fff00800000000000000
+      internalID: 1152700631217158148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -12}
+        - {x: 5, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7769e9f2c4b7ebe40800000000000000
+      internalID: 5674108147680056951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261b9431515d12e50800000000000000
+      internalID: 6782936800291303778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92f0a187d6127ab0800000000000000
+      internalID: -5011918320461352292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: -5, y: 12}
+        - {x: -5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53d9975a8cc9c490800000000000000
+      internalID: -7725418791230123169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -12}
+        - {x: 5, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a460708a39ad32f0800000000000000
+      internalID: -991450274223594331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5193798ee7c855060800000000000000
+      internalID: 6941608877357480213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: -5, y: 12}
+        - {x: -5, y: -12}
+      - - {x: -5, y: 3}
+        - {x: -5, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c199c1aa1f3cba620800000000000000
+      internalID: 2786536237167319324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 3}
+        - {x: -12, y: 12}
+        - {x: -5, y: 12}
+        - {x: -5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0288b31ac0fba3b80800000000000000
+      internalID: -8414202892822804448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 3}
+        - {x: 5, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc2dd32148fa1790800000000000000
+      internalID: -7558456065929696074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 3}
+        - {x: -12, y: 12}
+        - {x: 5, y: 12}
+        - {x: 5, y: 3}
+      - - {x: 5, y: -11}
+        - {x: 5, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f2c181e59fe9840800000000000000
+      internalID: 5232893999577837367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -12}
+        - {x: -12, y: -5}
+        - {x: 12, y: -5}
+        - {x: 12, y: -12}
+      - - {x: -12, y: -5}
+        - {x: -12, y: 12}
+        - {x: -5, y: 12}
+        - {x: -5, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae99d0bc699a8fcd0800000000000000
+      internalID: -2524081126024308246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -12}
+        - {x: -12, y: -5}
+        - {x: -5, y: -5}
+        - {x: -5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cc0f63416b13020800000000000000
+      internalID: 2319835481009867840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -12}
+        - {x: 5, y: -5}
+        - {x: 12, y: -5}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa4b33bcd5c1b2f0800000000000000
+      internalID: -958767693962720520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -12}
+        - {x: 5, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      - - {x: -12, y: -12}
+        - {x: -12, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bec024773b355e0800000000000000
+      internalID: -1921995291166446809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: -5, y: 12}
+        - {x: -5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85f840c31167d340800000000000000
+      internalID: 4888482657992242575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 10}
+        - {x: -1, y: 10}
+        - {x: 2, y: 10}
+        - {x: 2, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f20cc95f455838c0800000000000000
+      internalID: -4019368868130848007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -12}
+        - {x: 5, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c77e7bb0b5e740800000000000000
+      internalID: 5180741265686774406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -12}
+        - {x: -5, y: -5}
+        - {x: 12, y: -5}
+        - {x: 12, y: -12}
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: -5, y: 12}
+        - {x: -5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2359e5306962f50800000000000000
+      internalID: 6856332423934063268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -12}
+        - {x: -12, y: -5}
+        - {x: 12, y: -5}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7741052df735da00800000000000000
+      internalID: 780591670805743487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -12}
+        - {x: 5, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      - - {x: -12, y: -12}
+        - {x: -12, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab71b3e0e581cf90800000000000000
+      internalID: -6935114750234625110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Booter_heck_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -12}
+        - {x: -12, y: -5}
+        - {x: -9, y: -5}
+        - {x: -9, y: -12}
+      - - {x: -9, y: -12}
+        - {x: -9, y: -10}
+        - {x: 9, y: -10}
+        - {x: 9, y: -12}
+      - - {x: 9, y: -12}
+        - {x: 9, y: -5}
+        - {x: 12, y: -5}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2176474b0042842c0800000000000000
+      internalID: -4447265046582237422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
