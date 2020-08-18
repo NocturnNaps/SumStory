@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Room : MonoBehaviour
 {
-    public int NumberOfRooms;
     [Header("Doors")]
     public GameObject RightDoor;
     public GameObject LeftDoor;

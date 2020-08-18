@@ -27,7 +27,10 @@ public class Player : MonoBehaviour
         myRigidbody2d = GetComponent<Rigidbody2D>();
         myAnimator = GetComponent<Animator>();
         myhealthText = FindObjectOfType<HealthText>();
+        if(myhealthText)
+        {
         myhealthText.SetHealthText(PlayerHealth);
+        }
         StartingSpeed = PlayerSpeed;
     }
 
