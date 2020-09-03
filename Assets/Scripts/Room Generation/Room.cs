@@ -9,15 +9,26 @@ public class Room : MonoBehaviour
     public GameObject LeftDoor;
     public GameObject UpperDoor;
     public GameObject DownDoor;
-    // Start is called before the first frame update
-    void Start()
+
+    [Header("Actual Doors")]
+    public Door ActualRightDoor;
+    public Door ActualLeftDoor;
+    public Door ActualUpperDoor;
+    public Door ActualDownDoor;
+
+    //cache
+    Room overRoom;
+
+    void OnTriggerEnter(Collider other)
     {
-        
+        overRoom = other.GetComponent<Room>();
+        if (other.GetComponent<Player>()) {return;}
+
+        Destroy(gameObject);
     }
 
-    // Update is called once per frame
-    void Update()
+    public GameObject GetRoomObject()
     {
-        
+        return gameObject;
     }
 }
